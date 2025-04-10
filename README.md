@@ -77,7 +77,7 @@ Make sure your `.env` variables are set properly to connect to the database and 
 ---
 
 ## 🧪 Demo & Feedback
-Want to try it out? Head to the demo section in the app or reach out to us. Your feedback helps shape the future of One-Go.
+Want to try it out? demo is coming soon or reach out to us. Your feedback helps shape the future of One-Go.
 
 ---
 
