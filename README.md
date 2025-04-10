@@ -83,7 +83,7 @@ Want to try it out? demo is coming soon or reach out to us. Your feedback helps 
 
 ### 🔗 Let's Connect
 - Website: [Coming Soon]
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/punam-kumari-2018951b6/)
+- LinkedIn: [My Profile](https://www.linkedin.com/in/punam-kumari-2018951b6/)
 - Twitter: [@onegoCMS](https://x.com/punamku22075700)
 
 > Happy Building with One-Go!
