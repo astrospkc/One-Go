@@ -67,12 +67,12 @@ npm run dev
 Make sure your `.env` variables are set properly to connect to the database and other services.
 
 ---
-
-## 💡 Upcoming
-- AI-assisted content categorization
-- One-click portfolio builder templates
-- Public & private content toggles
-- Analytics Dashboard
+## 💡Future Plans
+ - GraphQL Support
+ - Rich text editor
+ - Markdown support
+ - Role-based access
+ - Analytics for API usage
 
 ---
 
